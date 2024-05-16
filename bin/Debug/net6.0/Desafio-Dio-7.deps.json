@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Desafio-Dio-7/1.0.0": {
+        "runtime": {
+          "Desafio-Dio-7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio-Dio-7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
